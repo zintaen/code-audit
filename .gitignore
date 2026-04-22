@@ -44,3 +44,5 @@ __pycache__/
 .continue/
 .windsurf/
 .zed/
+.vercel
+.env*.local
